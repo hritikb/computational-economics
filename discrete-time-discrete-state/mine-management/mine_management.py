@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
  
-# adding Folder_2 to the system path
+# adding folder with solution algorithms to the system path
 sys.path.insert(0, 'D:\Projects\Computational Economics\discrete-time-discrete-state\Solution Algorithms')
 from function_iteration import fxn_iter
 
